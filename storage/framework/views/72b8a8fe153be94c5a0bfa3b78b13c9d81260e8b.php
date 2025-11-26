@@ -1,0 +1,1 @@
+<?php /**PATH D:\Xampp\htdocs\glscholars\resources\views/admin/layouts/footer.blade.php ENDPATH**/ ?>

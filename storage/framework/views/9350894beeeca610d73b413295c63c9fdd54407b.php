@@ -1,0 +1,339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <title>HRM email tamplete</title>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+            <style type="text/css">
+                html {
+                    width: 100%
+                }
+
+                ::-moz-selection {
+                    background: #fd7e14;
+                    color: #fff
+                }
+
+                ::selection {
+                    background: #fd7e14;
+                    color: #fff
+                }
+
+                body {
+                    background-color: #f5f7fa;
+                    margin: 0;
+                    padding: 0
+                }
+
+                .ExternalClass,
+                .ReadMsgBody {
+                    width: 100%;
+                    background-color: #f5f7fa
+                }
+
+                a {
+                    color: ;
+                    text-decoration: none;
+                    font-weight: 300;
+                    font-style: normal
+                }
+
+                a:hover {
+                    color: #adb2bb;
+                    text-decoration: underline;
+                    font-weight: 300;
+                    font-style: normal
+                }
+
+                div,
+                p {
+                    margin: 0!important
+                }
+
+                table {
+                    border-collapse: collapse
+                }
+
+                @media  only screen and (max-width:640px) {
+                    table table,
+                    td[class=full_width] {
+                        width: 100%!important
+                    }
+                    div[class=div_scale],
+                    table[class=table_scale],
+                    td[class=td_scale] {
+                        width: 440px!important;
+                        margin: 0 auto!important
+                    }
+                    img[class=img_scale] {
+                        width: 100%!important;
+                        height: auto!important
+                    }
+                    table[class=spacer],
+                    td[class=spacer] {
+                        display: none!important
+                    }
+                    td[class=center] {
+                        text-align: center!important
+                    }
+                    table[class=full] {
+                        width: 400px!important;
+                        margin-left: 20px!important;
+                        margin-right: 20px!important
+                    }
+                    img[class=divider] {
+                        width: 400px!important;
+                        height: 1px!important
+                    }
+                }
+
+                @media  only screen and (max-width:479px) {
+                    table table,
+                    td[class=full_width] {
+                        width: 100%!important
+                    }
+                    div[class=div_scale],
+                    table[class=table_scale],
+                    td[class=td_scale] {
+                        width: 95% !important;
+                        margin: 0 auto!important
+                    }
+                    img[class=img_scale] {
+                        width: 100%!important;
+                        height: auto!important
+                    }
+                    table[class=spacer],
+                    td[class=spacer] {
+                        display: none!important
+                    }
+                    td[class=center] {
+                        text-align: center!important
+                    }
+                    table[class=full] {
+                        width: 90% !important;
+                        margin-left: 20px!important;
+                        margin-right: 20px!important
+                    }
+                    img[class=divider] {
+                        width: 240px!important;
+                        height: 1px!important
+                    }
+                }
+            </style>
+    </head>
+
+    <body bgcolor="#fd7e14">
+        <!-- START OF PRE-HEADER BLOCK-->
+        <table width="100%" align="center" bgcolor="#fd7e14" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td align="center" valign="top" width="100%">
+                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td width="100%">
+                                <!-- START OF VERTICAL SPACER-->
+                                <table bgcolor="#fd7e14" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td width="100%" height="30"> &nbsp;</td>
+                                    </tr>
+                                </table>
+                                <!-- START OF VERTICAL SPACER-->
+                                <table bgcolor="#fd7e14" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td width="100%" height="20"> &nbsp;</td>
+                                    </tr>
+                                </table>
+                                <!-- END OF VERTICAL SPACER-->
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <!-- END OF HEADER BLOCK-->
+        <!-- START OF FEATURED AREA BLOCK-->
+        <table width="100%" align="center" bgcolor="#fd7e14" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td valign="top" width="100%">
+                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td width="100%">
+                                <table class="table_scale" width="600" bgcolor="#fd7e14" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td align="center" width="100%">
+                                            <table align="center" width="600" background="images/featured-background.png" cellpadding="0" cellspacing="0" border="0">
+                                                <!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:290px;"> <v:fill type="tile" src="http://i.imgur.com/XM6EYbh.png" color="#0079ff" /> <v:textbox inset="0,0,0,0"> <![endif]-->
+                                                <tr>
+                                                    <td class="spacer" width="30"> </td>
+                                                    <td width="540">
+                                                        <!-- START OF LEFT COLUMN-->
+                                                        <table class="full" align="center" width="540" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                            <tr>
+                                                                <td height="40"> &nbsp;</td>
+                                                            </tr>
+                                                            <!-- START OF HEADING-->
+                                                            <tr>
+                                                                <td class="center" align="center" style="padding-bottom: 5px; font-weight: 300; font-family: 'Open Sans', Helvetica, Arial, sans-serif; color:#ffffff;font-weight: bold; font-size:22px; line-height:34px; mso-line-height-rule: exactly;">
+                                                                    <span style="border-bottom: 1px solid #fff;padding-bottom: 10px;">
+                                                                        Account Activation
+                                                                    </span>
+                                                                </td>
+                                                            </tr>
+                                                            <!-- END BUTTON-->
+                                                            <tr>
+                                                                <td height="40"> &nbsp;</td>
+                                                            </tr>
+                                                        </table>
+                                                        <!-- END LEFT COLUMN-->
+                                                    </td>
+                                                    <td class="spacer" width="30"> </td>
+                                                </tr>
+                                                <!--[if gte mso 9]> </v:textbox> </v:rect> <![endif]-->
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!-- END OF VERTICAL SPACER-->
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <!-- END OF DIVIDER IMAGE BLOCK-->
+        <!-- START OF 1/2 COLUMN RIGHT IMAGE BLOCK-->
+        <table width="100%" align="center" bgcolor="#f5f7fa" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td valign="top" width="100%">
+                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td width="100%">
+                                <table class="table_scale" width="600" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td width="100%">
+                                            <table width="600" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td class="spacer" width="30"> </td>
+                                                    <td width="540">
+                                                        <!-- START OF LEFT COLUMN-->
+                                                        <table class="full" align="left" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                            <!-- START OF HEADING-->
+                                                            <tr>
+                                                                <td class="center" align="left" style="margin: 0;padding-top: 30px; font-weight: 300; font-size:18px ; color:#757f83; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 26px;mso-line-height-rule: exactly;"> <span><strong>Hello <?php echo isset($name) ? $name : ''; ?>,</strong> </span> </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="10"> &nbsp;</td>
+                                                            </tr>
+                                                            
+                                                            <tr>
+                                                                <td class="center" align="justify" style="padding-bottom: 10px; text-align: justify; font-weight: 300;font-family: 'Open Sans', Helvetica, Arial, sans-serif; color:#757f83; font-size:18px; line-height:34px; mso-line-height-rule: exactly;">
+                                                                    Please click the button below to activate your <b>GL Scholars</b> account:
+                                                                </td>
+                                                                <tr>
+                                                                    <td class="center" align="center" style="margin: 0; padding-top: 10px; padding-bottom: 5px; font-weight:300; font-size:20px ; color:#fd7e14; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 30px;mso-line-height-rule: exactly;"> <span> <a href="<?php echo isset($link) ? $link : ''; ?>" target="_blank" style="font-weight: normal; font-style: 300; color:#fd7e14; "> Activate Account Here </a>  </span> </td>
+                                                                </tr>
+                                                            </tr>
+                                                            <tr>
+                                                            </tr>
+                                                        </table>
+                                                        <!-- END OF RIGHT COLUMN-->
+                                                    </td>
+                                                    <td class="spacer" width="30"> </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!-- START OF VERTICAL SPACER-->
+                                <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td width="100%" height="40"> &nbsp;</td>
+                                    </tr>
+                                </table>
+                                <!-- END OF VERTICAL SPACER-->
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <!-- END OF FOOTER BLOCK-->
+        <!-- START OF SUB-FOOTER BLOCK-->
+        <table width="100%" align="center" bgcolor="#fd7e14" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td valign="top" width="100%">
+                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td width="100%">
+                                <table class="table_scale" width="600" bgcolor="#fd7e14" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #f7f7f7;">
+                                    <tr>
+                                        <td width="100%">
+                                            <table width="600" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td class="spacer" width="30"> </td>
+                                                    <td width="540">
+                                                        <!-- START OF LEFT COLUMN-->
+
+                                                        <!-- END OF LEFT COLUMN-->
+                                                        <!-- START OF SPACER-->
+
+                                                        <!-- END OF RIGHT COLUMN-->
+                                                    </td>
+                                                    <td class="spacer" width="30"> </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <!-- END OF SUB-FOOTER BLOCK-->
+        <table width="100%" align="center" bgcolor="#fd7e14" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td align="center" valign="top" width="100%">
+                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td width="100%">
+                                <table class="table_scale" width="600" bgcolor="#fd7e14" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td width="100%">
+                                            <table width="600" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td width="540">
+                                                        <table align="left" width="540" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                            <tr>
+                                                                <td align="center" valign="top" style="padding: 0px;">
+                                                                    <table border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fd7e14" style="margin: 0;">
+                                                                        <tr>
+                                                                            <td align="center" valign="middle" bgcolor="#fd7e14" style="padding: 0px; font-size:13px ; font-style:normal; color:#adb2bb; font-family: 'Open Sans',Helvetica,Arial,sans-serif;line-height:0;"> <img class="img_scale" src="images/footer-radius.png" width="600" height="10" alt="" border="0" style="display:block;" /> </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!-- START OF VERTICAL SPACER-->
+                                <table bgcolor="#fd7e14" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td width="100%" height="40"> &nbsp;</td>
+                                    </tr>
+                                </table>
+                                <!-- END OF VERTICAL SPACER-->
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
+<?php /**PATH D:\Xampp\htdocs\glscholars\resources\views/front/email_templates/account_activation.blade.php ENDPATH**/ ?>

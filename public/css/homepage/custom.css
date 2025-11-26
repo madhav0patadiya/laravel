@@ -1,0 +1,56 @@
+.error {
+    color: red;
+}
+
+.sponsor-thumb img {
+    width: 150px;
+    height: 100px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+.course-thumb img {
+    height: 300px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+.instructor-thumb img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+.sftl-thumb img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+.sfl-thumb img {
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.header-logo {
+    width: 200px;
+    height: 60px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+.about-thumb img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+
+
